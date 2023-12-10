@@ -1,0 +1,52 @@
+header{ 
+    background-image: url("assets/BGLOG.png");
+       background-size: cover;
+       justify-content: center;
+align-items: center;
+display: flex;
+margin: 0;
+padding: 0;
+/* height: 500px;  */
+font-family: sans-serif; 
+font-size: 17px;
+color: whitesmoke;
+    
+   }
+    
+nav{
+       width: 100%;
+       position: absolute;
+       top: 0;
+       left: 0;
+       padding: 20px 8%;
+       display: flex;
+       align-items: center;
+       justify-content: space-between;
+       background-color: rgba(255, 255, 255, 0);
+        font-size: 18px;
+        font-weight: bold;
+    }
+    
+nav ul li{
+       list-style: none;
+       display: inline-block;
+       margin-left: 40px;
+    }
+    
+nav ul li a{
+       text-decoration: none;
+       color: #000000;
+       font-size: 17px;
+    }
+    
+    nav ul li a:hover{
+      color: rgb(219, 130, 13)
+    }
+
+     
+     
+    
+    
+    
+    
+    

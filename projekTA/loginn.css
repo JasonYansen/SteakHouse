@@ -1,0 +1,45 @@
+body{  
+    background-image: url("assets/BGLOGG.png");
+        background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 600px; 
+    font-family: sans-serif; 
+    font-size: 17px;
+    color: whitesmoke;
+     }
+    
+    .login{  
+        background: rgba(31, 31, 30, 0.416);
+        text-align: center;
+        padding: 40px; 
+        box-sizing: border-box; 
+        border-radius:50px  ;
+        color:rgb(255, 255, 255);
+    }
+    .login h2{
+        margin: 0 0 20px;
+        width: 100%;
+        margin-bottom: 25px;
+    } 
+    
+    .login .input-group{
+    position: relative;
+    width: 100%;
+    margin-bottom: 25px;} 
+    
+    .login .input-group input{
+        height: 100;
+        width: 100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+        font-size: 20px;
+        border: 2px solid rgb(40, 38, 38); 
+        border-radius: 10px;
+    
+    } 
+    
+     
